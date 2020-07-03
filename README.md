@@ -1,1 +1,3 @@
 # statoil
+
+nu moš atpisies?
